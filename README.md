@@ -12,7 +12,6 @@ Este proyecto se enfoca en la Interpretabilidad de Modelos Predictivos (XAI). Se
 * Analizar el modelo desde una perspectiva de sesgo y ética, proponiendo medidas concretas para mejorar la equidad.
 
 ### Tecnologías Clave:
-* Categoría	Herramientas Específicas
 * Lenguaje	Python
 * ML & Análisis	scikit-learn, pandas, numpy
 * Explicabilidad	LIME, SHAP
